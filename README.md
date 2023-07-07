@@ -1,9 +1,4 @@
-###Proyecto final de marca personal
-
-Encuentra cómo construir tu marca personal desde cero en:
-
-www.platzi.com/marca
-
+###Portafolio
 
 ***
 
@@ -32,9 +27,6 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 
 Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
