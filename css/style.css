@@ -94,6 +94,9 @@ h1, h2, h3, h4, h5, h6, figure {
 .container-logo{
   max-width: 100%;
 }
+.container-ima{
+  max-width:450px;
+}
 
 @media screen and (max-width: 768px) {
   .container-wrap {
@@ -432,6 +435,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: black;
   font-family: 'Ubuntu', sans-serif;
   font-weight: 700;
+  font-size: 70px;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
   margin-bottom: 20px;
